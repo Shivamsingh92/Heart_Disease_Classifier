@@ -10,7 +10,7 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 Machine Learning algorithms used:
 
 1)Logistic Regression (Scikit-learn)
-2)Naive Bayes (Scikit-learn)
-3)K-Nearest Neighbours (Scikit-learn)
-4)Decision Tree (Scikit-learn)
-5)Random Forest (Scikit-learn)
+
+2)Decision Tree (Scikit-learn)
+
+3)Random Forest (Scikit-learn)
